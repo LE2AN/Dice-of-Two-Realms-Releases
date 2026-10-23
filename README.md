@@ -23,7 +23,7 @@
 ## 🎮 Как играть
 
 Игра не требует установки (Portable версия). 
-1. Скачай актуальный `.exe` файл в разделе **[Releases](https://github.com/LE2AN/Kubik/releases)**.
+1. Скачай актуальный `.exe` файл в разделе **[Releases](https://github.com/LE2AN/Dice-of-Two-Realms-Releases/releases)**.
 2. Запусти файл и нажми **«Кинуть кубики»**.
 
 **Правила:**
